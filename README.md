@@ -1,4 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Martin Humlund Clausen 👋
+---
+[LinkedIn](www.linkedin.com/in/martinhc)  • [Blog](https://dev.to/martinhc)
+
+👋 I'm a software generalist who writes (mostly) `dotnet`, drinks coffee, makes friends, and automates the world around me 🤖
+
+🔥 My mission is to help teams succeed while having fun, experimenting, and delivering top-shelf software products, seamlessly and effectively into production. 
+
+🏖️ I am highly passionate about automation and DevOps Practices. I work with Azure, Infrastructure as Code, Kubernetes, CI/CD with Github actions, Azure DevOps, Azure Functions, Powershell, and the list goes on. On top of that, I am an avid advocate for automated testing 🤖
+
+😍 My life's work has mainly been to rebuild and help build [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)'s Cloud offering -Umbraco Cloud, hosting thousands of websites on Microsoft Azure, enabling customers to easily get started using Umbraco, and to steward multiple Cloud Teams as Team leads.
+
+- 🔭 I’m currently working on bringing Flexible hosting environments to Umbraco Cloud, and enabling external AAD SSO for all our customers 🤓
+- 🎹 I’m currently learning how to play Piano, and stepping and stepping into Data Science 🧪
+- 👯 I’m always up for a discussion about technology, coding, or nerdy curiosities.
+- 💬 Ask me about everything dotnet
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/martinhc)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Besides all the technical, I love philosophy about the human condition and pursuing a fulfilling life.
 
 <!--
 **mclausen/mclausen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
