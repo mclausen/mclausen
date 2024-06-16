@@ -7,7 +7,7 @@
 
 🏖️ I am highly passionate about automation and DevOps practices. I work with tools like Azure, Infrastructure as Code, Kubernetes, CI/CD with GitHub Actions, Azure DevOps, Azure Functions, PowerShell, and more. On top of that, I am an avid advocate for automated testing 🤖.
 
-😍 My life's work has mainly been to rebuild and help build [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)'s Cloud offering—Umbraco Cloud. This platform hosts thousands of websites on Microsoft Azure, enabling customers to easily start using Umbraco, and I've led multiple Cloud Teams as Team Lead.
+😍 My life's work has mainly been to rebuild and help build [Umbraco CMS](https://github.com/umbraco/Umbraco-CMS)'s Cloud offering—Umbraco Cloud. This platform hosts thousands of websites on Microsoft Azure, enabling customers to easily start using Umbraco, and I've led multiple Cloud Teams as a Developer, Architect, and Team Lead.
 
 - 🔭 I’m currently working on enhancing Umbraco Cloud with flexible hosting environments and enabling external AAD SSO for all our customers 🤓.
 - 🎹 Outside of tech, I’m learning how to play the piano and stepping into the world of Data Science 🧪.
