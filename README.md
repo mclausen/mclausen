@@ -14,7 +14,7 @@
 - 🎹 Outside of tech, I’m learning how to play the piano and stepping into the world of Data Science 🧪.
 - 👯 I’m always open for a discussion about technology, coding, or the latest nerdy curiosities.
 - 💬 Ask me about anything related to .NET, automation, and DevOps practices.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martinhc)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/martinhc) or [Email](martinh.c@me.com)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Beyond technology, I am deeply interested in philosophy, particularly concerning the human condition and the pursuit of a fulfilling life.
 
