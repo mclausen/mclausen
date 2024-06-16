@@ -1,5 +1,4 @@
 # Hi there, I'm Martin Humlund Clausen 👋
----
 [LinkedIn](https://www.linkedin.com/in/martinhc) • [Blog](https://dev.to/martinhc)
 
 👋 I'm a software generalist who writes (mostly) `dotnet`, drinks coffee, makes friends, and automates the world around me 🤖.
